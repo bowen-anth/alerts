@@ -38,6 +38,7 @@ body {
   width: 2rem;
   color: white;
   border-radius: 50%;
+  flex-shrink: 0;
 }
 
 .mark-container.success {
